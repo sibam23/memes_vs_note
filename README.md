@@ -21,6 +21,6 @@ Dense layer - C(2500,1)
 
 #### Accuracy 
 Train set - 62  
-Test set - 62  
+Test set - 74  
 
 
